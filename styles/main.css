@@ -40,6 +40,7 @@ main h1{
 	font-size: 150%;
 	border-bottom: #931420 solid 3px;
 	border-top: #931420 solid 3px;
+	border-radius: 3px;
 
 }
 ul{
